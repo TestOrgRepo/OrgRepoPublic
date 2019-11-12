@@ -4,5 +4,6 @@ public with sharing class GitClassBFUser1 {
         //Check this to BFUser2 branch
         //Check Permission
         //Try push
+        //Changed in Master
     }
 }
